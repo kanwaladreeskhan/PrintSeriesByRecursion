@@ -1,0 +1,7 @@
+C:\Users\FC Technologies\Documents\Visual Studio 2022\PrintSeriesByRecursion\PrintSeriesByRecursion\bin\Debug\PrintSeriesByRecursion.exe.config
+C:\Users\FC Technologies\Documents\Visual Studio 2022\PrintSeriesByRecursion\PrintSeriesByRecursion\bin\Debug\PrintSeriesByRecursion.exe
+C:\Users\FC Technologies\Documents\Visual Studio 2022\PrintSeriesByRecursion\PrintSeriesByRecursion\bin\Debug\PrintSeriesByRecursion.pdb
+C:\Users\FC Technologies\Documents\Visual Studio 2022\PrintSeriesByRecursion\PrintSeriesByRecursion\obj\Debug\PrintSeriesByRecursion.csproj.AssemblyReference.cache
+C:\Users\FC Technologies\Documents\Visual Studio 2022\PrintSeriesByRecursion\PrintSeriesByRecursion\obj\Debug\PrintSeriesByRecursion.csproj.CoreCompileInputs.cache
+C:\Users\FC Technologies\Documents\Visual Studio 2022\PrintSeriesByRecursion\PrintSeriesByRecursion\obj\Debug\PrintSeriesByRecursion.exe
+C:\Users\FC Technologies\Documents\Visual Studio 2022\PrintSeriesByRecursion\PrintSeriesByRecursion\obj\Debug\PrintSeriesByRecursion.pdb
